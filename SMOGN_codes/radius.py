@@ -20,7 +20,7 @@ print("SMOGing data")
 df_s = smogn.smoter(
     ## main arguments
     data = df_1,           ## pandas dataframe
-    y = 'radius_g',          ## string ('header name')
+    y = 'radius',          ## string ('header name')
     k = 7,                    ## positive integer (k < n)
     pert = 0.04,              ## real number (0 < R < 1)
     samp_method = 'balance',  ## string ('balance' or 'extreme')
