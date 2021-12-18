@@ -8,7 +8,7 @@ This is the code repository related to the paper **Mimicking the galaxy-halo con
 
 For further information, suggestions or doubts, please contact:
 
-* Natalí de Santi: natali.santi@usp.br
-* Natália Rodrigues: natalia.villa.rodrigues@usp.br
+* Natalí de Santi: natali.santi@usp.br or natalidesanti@gmail.com
+* Natália Rodrigues: natalia.villa.rodrigues@usp.br or natvnr@gmail.com
 
 If you use any of the codes presented here, please cite the paper.
