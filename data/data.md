@@ -2,7 +2,7 @@
 
 In this folder you can include IllustrisTNG dataset.
 
-Please, go to the Illustris' [page][https://www.illustris-project.org/] to get the data. Remember
+Please, go to the Illustris' [page](https://www.illustris-project.org/) to get the data. Remember
 that you will need to compute some properties according to the paper.
 
 In order to use the notebook provided in this project, remember to give dataset file the name: `IllustrisTNG.csv` and that the the header should be according to:
