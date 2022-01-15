@@ -1,6 +1,6 @@
-# Mimicking the galaxy-halo connection
+# Mimicking the halo-galaxy connection using machine learning
 
-This is the code repository related to the paper **Mimicking the galaxy-halo connection using machine learning**. It contains:
+This is the code repository related to the paper **Mimicking the halo-galaxy connection using machine learning**. It contains:
 
 * All the ML models developed in the work;
 * Examples about how using them in the paper analysis;
@@ -8,7 +8,7 @@ This is the code repository related to the paper **Mimicking the galaxy-halo con
 
 For further information, suggestions or doubts, please contact:
 
-* Natalí de Santi: natali.santi@usp.br or natalidesanti@gmail.com
-* Natália Rodrigues: natalia.villa.rodrigues@usp.br or natvnr@gmail.com
+* Natalí de Santi: natalidesanti@gmail.com or natali.santi@usp.br
+* Natália Rodrigues: natvnr@gmail.com or natalia.villa.rodrigues@usp.br
 
 If you use any of the codes or models presented here, please cite the paper.
